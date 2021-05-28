@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\bin\Debug\net5.0\LoopsOne.exe
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\bin\Debug\net5.0\LoopsOne.deps.json
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\bin\Debug\net5.0\LoopsOne.runtimeconfig.json
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\bin\Debug\net5.0\LoopsOne.runtimeconfig.dev.json
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\bin\Debug\net5.0\LoopsOne.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\bin\Debug\net5.0\ref\LoopsOne.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\bin\Debug\net5.0\LoopsOne.pdb
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\LoopsOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\LoopsOne.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\LoopsOne.AssemblyInfo.cs
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\LoopsOne.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\LoopsOne.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\ref\LoopsOne.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\LoopsOne.pdb
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\LoopsOne.genruntimeconfig.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsOne\obj\Debug\net5.0\LoopsOne.csproj.AssemblyReference.cache
