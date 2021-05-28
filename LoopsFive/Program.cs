@@ -1,0 +1,24 @@
+﻿using System;
+using System.Text;
+
+namespace LoopsFive
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i = 0;
+            int j = 0;
+            
+            for (i = 1; i <= 3; i++)
+            {
+                    for (j = 1; j <= 4; j++)
+                    {
+                    Console.Write(i);
+                    }
+                    Console.WriteLine(i);
+            }
+            Console.ReadLine();
+        }
+    }
+}

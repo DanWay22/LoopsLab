@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\bin\Debug\net5.0\LoopsFive.exe
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\bin\Debug\net5.0\LoopsFive.deps.json
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\bin\Debug\net5.0\LoopsFive.runtimeconfig.json
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\bin\Debug\net5.0\LoopsFive.runtimeconfig.dev.json
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\bin\Debug\net5.0\LoopsFive.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\bin\Debug\net5.0\ref\LoopsFive.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\bin\Debug\net5.0\LoopsFive.pdb
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\LoopsFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\LoopsFive.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\LoopsFive.AssemblyInfo.cs
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\LoopsFive.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\LoopsFive.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\ref\LoopsFive.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\LoopsFive.pdb
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\LoopsFive.genruntimeconfig.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsFive\obj\Debug\net5.0\LoopsFive.csproj.AssemblyReference.cache
