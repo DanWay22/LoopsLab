@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\bin\Debug\net5.0\LoopsThree.exe
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\bin\Debug\net5.0\LoopsThree.deps.json
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\bin\Debug\net5.0\LoopsThree.runtimeconfig.json
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\bin\Debug\net5.0\LoopsThree.runtimeconfig.dev.json
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\bin\Debug\net5.0\LoopsThree.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\bin\Debug\net5.0\ref\LoopsThree.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\bin\Debug\net5.0\LoopsThree.pdb
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\LoopsThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\LoopsThree.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\LoopsThree.AssemblyInfo.cs
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\LoopsThree.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\LoopsThree.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\ref\LoopsThree.dll
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\LoopsThree.pdb
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\LoopsThree.genruntimeconfig.cache
+C:\Users\danie\source\repos\LoopsOne\LoopsThree\obj\Debug\net5.0\LoopsThree.csproj.AssemblyReference.cache
